@@ -1,0 +1,1 @@
+smart contracts to manage the sale of handmade 24k gold chains.

@@ -1,0 +1,50 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='500' height='500' version='1.1'>
+<rect x='5' y='5' width='490' height='490' fill='none' stroke='black'></rect>
+<rect x='10' y='10' width='480' height='480' fill='none' stroke='black'></rect>
+<g text-anchor='middle'>
+<text x='250' y='50'>PROTOTYPES</text>
+<text x='250' y='70'> Official receipt for prototype #1.</text>
+<text x='250' y='150'>A project by herestobeingonaroll.eth.</text>
+<text x='250' y='90'>Prototypes is a collection of 75 solid 24k gold chains.</text>
+<text x='250' y ='110'>All chains are handmade in Los Angeles by the creator. </text>
+
+
+</g >
+<text x='35' y='200' class='heavy'>id: 1</text><text x='35' y='230' class='heavy'>weight: 101</text><text x='35' y='260' class='heavy'>length: 26</text><text x='35' y='290' class='heavy'>owner: 0xb4c...227e84</text><text x='35' y='320' class='heavy'>purchaser: 0xb4c...227e84</text><text x='35' y='350' class='heavy'>price: 10000000000000000000</text><text x='35' y='380' class='heavy'>timestamp: 1</text>
+    <circle fill='none' stroke='black' cx='25' cy='197' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='227' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='257' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='287' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='317' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='347' r='2px'></circle>
+    <circle fill='none' stroke='black' cx='25' cy='377' r='2px'></circle>
+</g>
+
+  
+
+<!-- <text id='id' x='35' y='200' class='heavy'></text>
+<text id='weight' x='35' y='230' class='heavy'></text>
+<text id='length' x='35' y='260' class='heavy'></text>
+<text id='owner' x='35' y='290' class='heavy'></text>
+<text id='purchaser' x='35' y='320' class='heavy'></text>
+<text id='price' x='35' y='350' class='heavy'></text>
+<text id='timestamp' x='35' y='380' class='heavy'></text> -->
+
+
+<!-- <script type='text/javascript'> 
+
+
+
+
+data={id:1,weight:101,length:26,owner:'0x5b38da6a701c568545dcfcb03fcb875f56beddc4',purchaser:'0x5b38da6a701c568545dcfcb03fcb875f56beddc4',price:10000000000000000000,timestamp:123456789};function truncate(t){return t.substring(0,5)+'...'+t.substring(42,37)}function viewImages(){console.log('hello')}document.getElementById('id').textContent='id: '+data.id,document.getElementById('weight').textContent='weight: '+data.weight,document.getElementById('length').textContent='length: '+data.length,document.getElementById('owner').textContent='owner: '+truncate(data.owner),document.getElementById('purchaser').textContent='purchaser: '+truncate(data.purchaser),document.getElementById('price').textContent='price: '+data.price+' eth',document.getElementById('timestamp').textContent='timestamp: '+data.timestamp;
+
+
+</script> -->
+
+<text id='images' x='400' y='480'> view images</text>
+<rect fill='transparent' stroke='black' x='390' y='465' width='95' height='20' onclick='viewImages()'>
+
+</rect>
+<!-- <a x='400' y='480' target='_blank' rel='noopener noreferrer' href='www.google.com'>hello</a> -->
+
+</svg>
