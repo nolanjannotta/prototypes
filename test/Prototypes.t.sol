@@ -8,7 +8,8 @@ import "@openzeppelin/contracts/utils/Strings.sol";
 contract PrototypesTest is Test {
     Prototypes public prototypes;
 
-    // key pair from anvil
+    // key pairs from anvil
+    // to be used with vm.sign
     address user = 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266;
     uint userPrivateKey = uint(0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80);
 
